@@ -1,1 +1,1 @@
-A basic API server written in Go
+A basic API server written in Go.
